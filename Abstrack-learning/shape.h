@@ -6,7 +6,7 @@
 #include<cmath>
 using namespace std;
 
-//类定义
+//锟洁定锟斤拷
 class Shape
 {
 protected:
@@ -17,4 +17,4 @@ public:
 	virtual double getPerimeter() const = 0;
 };
 
-#endif SHAPE_H
+#endif

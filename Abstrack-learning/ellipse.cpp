@@ -11,7 +11,7 @@ Ellipse::Ellipse(double r1, double r2)
 	}
 }
 
-//��������
+//析构函数
 Ellipse::~Ellipse()
 {
 }
@@ -23,13 +23,13 @@ void Ellipse::print()const
 	cout << radius2 << endl;
 }
 
-//�������
+//cacular area
 double Ellipse::getArea() const
 {
 	return (3.14 * radius1 * radius2);
 }
 
-//�����ܳ�
+//cacular perimeter
 double Ellipse::getPerimeter() const
 {
 	double temp = (radius1 * radius1 + radius2 * radius2) / 2;
