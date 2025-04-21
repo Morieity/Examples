@@ -29,7 +29,7 @@ double Circle::getArea() const
 }
 
 //defination of permeter
-double Circle::getPrimeter() const
+double Circle::getPerimeter() const
 {
 	return 2 * 3.14 * radius;
 }

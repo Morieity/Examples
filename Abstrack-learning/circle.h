@@ -14,7 +14,7 @@ public:
 	~Circle();
 	void print() const;
 	double getArea() const;
-	double getPrimeter() const;
+	double getPerimeter() const;
 };
 
 #endif

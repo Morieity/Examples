@@ -19,7 +19,7 @@ Ellipse::~Ellipse()
 //print defination
 void Ellipse::print()const
 {
-	cout << "Ellipse of radii: " << radius1 << "X" << endl;
+	cout << "Ellipse of radius: " << radius1 << "X" ;
 	cout << radius2 << endl;
 }
 

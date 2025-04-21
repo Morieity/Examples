@@ -135,6 +135,7 @@
     <ClInclude Include="triangle.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="app.cpp" />
     <ClCompile Include="circle.cpp" />
     <ClCompile Include="ellipse.cpp" />
     <ClCompile Include="rectangle.cpp" />
