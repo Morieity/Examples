@@ -15,7 +15,7 @@ public:
 	~Ellipse();
 	void print() const;
 	double getArea() const;
-	double getPermeter() const;
+	double getPerimeter() const;
 };
 
 #endif
