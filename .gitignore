@@ -1,0 +1,18 @@
+# VS 临时文件
+.vs/
+*.suo
+*.user
+*.vcxproj.*
+*.VC.db
+
+# Intellisense 缓存
+ipch/
+*.ipch
+*.opensdf
+*.sdf
+
+# 编译输出
+Debug/
+Release/
+*.exe
+*.obj
